@@ -1,0 +1,12 @@
+c:\users\elise\documents\visual studio 2015\Projects\ClientServerChat(2)\ClientServerChat(2)\bin\Debug\ClientServerChat(2).exe.config
+c:\users\elise\documents\visual studio 2015\Projects\ClientServerChat(2)\ClientServerChat(2)\bin\Debug\ClientServerChat(2).exe
+c:\users\elise\documents\visual studio 2015\Projects\ClientServerChat(2)\ClientServerChat(2)\bin\Debug\ClientServerChat(2).pdb
+c:\users\elise\documents\visual studio 2015\Projects\ClientServerChat(2)\ClientServerChat(2)\obj\Debug\ClientServerChat(2).csprojResolveAssemblyReference.cache
+c:\users\elise\documents\visual studio 2015\Projects\ClientServerChat(2)\ClientServerChat(2)\obj\Debug\ClientServerChat(2).exe
+c:\users\elise\documents\visual studio 2015\Projects\ClientServerChat(2)\ClientServerChat(2)\obj\Debug\ClientServerChat(2).pdb
+C:\Users\User\Documents\ClientServerChat(2)\ClientServerChat(2)\bin\Debug\ClientServerChat(2).exe.config
+C:\Users\User\Documents\ClientServerChat(2)\ClientServerChat(2)\obj\Debug\ClientServerChat(2).exe
+C:\Users\User\Documents\ClientServerChat(2)\ClientServerChat(2)\obj\Debug\ClientServerChat(2).pdb
+C:\Users\User\Documents\ClientServerChat(2)\ClientServerChat(2)\bin\Debug\ClientServerChat(2).exe
+C:\Users\User\Documents\ClientServerChat(2)\ClientServerChat(2)\bin\Debug\ClientServerChat(2).pdb
+C:\Users\User\Documents\ClientServerChat(2)\ClientServerChat(2)\obj\Debug\ClientServerChat(2).csprojResolveAssemblyReference.cache

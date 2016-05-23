@@ -1,0 +1,42 @@
+c:\users\elise\documents\visual studio 2015\Projects\Second_program\Second_program\bin\Debug\Second_program.exe.config
+c:\users\elise\documents\visual studio 2015\Projects\Second_program\Second_program\obj\Debug\Second_program.csprojResolveAssemblyReference.cache
+c:\users\elise\documents\visual studio 2015\Projects\Second_program\Second_program\bin\Debug\Second_program.exe
+c:\users\elise\documents\visual studio 2015\Projects\Second_program\Second_program\bin\Debug\Second_program.pdb
+c:\users\elise\documents\visual studio 2015\Projects\Second_program\Second_program\obj\Debug\Second_program.exe
+c:\users\elise\documents\visual studio 2015\Projects\Second_program\Second_program\obj\Debug\Second_program.pdb
+C:\Users\Elise\Desktop\Second_program\Second_program\bin\Debug\Second_program.exe.config
+C:\Users\Elise\Desktop\Second_program\Second_program\obj\Debug\Second_program.exe
+C:\Users\Elise\Desktop\Second_program\Second_program\obj\Debug\Second_program.pdb
+C:\Users\Elise\Desktop\Second_program\Second_program\bin\Debug\Second_program.exe
+C:\Users\Elise\Desktop\Second_program\Second_program\bin\Debug\Second_program.pdb
+C:\Users\Elise\Desktop\Second_program\Second_program\obj\Debug\Second_program.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Second_program\Second_program\bin\Debug\Second_program.exe.config
+C:\Users\User\Desktop\Second_program\Second_program\obj\Debug\Second_program.exe
+C:\Users\User\Desktop\Second_program\Second_program\obj\Debug\Second_program.pdb
+C:\Users\User\Desktop\Second_program\Second_program\bin\Debug\Second_program.exe
+C:\Users\User\Desktop\Second_program\Second_program\bin\Debug\Second_program.pdb
+C:\Users\User\Desktop\Second_program\Second_program\obj\Debug\Second_program.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Eliseev\C#\Second_program\Second_program\bin\Debug\Second_program.exe.config
+C:\Users\User\Desktop\Eliseev\C#\Second_program\Second_program\obj\Debug\Second_program.exe
+C:\Users\User\Desktop\Eliseev\C#\Second_program\Second_program\obj\Debug\Second_program.pdb
+C:\Users\User\Desktop\Eliseev\C#\Second_program\Second_program\bin\Debug\Second_program.exe
+C:\Users\User\Desktop\Eliseev\C#\Second_program\Second_program\bin\Debug\Second_program.pdb
+C:\Users\User\Desktop\Eliseev\C#\Second_program\Second_program\obj\Debug\Second_program.csprojResolveAssemblyReference.cache
+C:\Users\Настя\Desktop\Second_program\Second_program\bin\Debug\Second_program.exe.config
+C:\Users\Настя\Desktop\Second_program\Second_program\obj\Debug\Second_program.exe
+C:\Users\Настя\Desktop\Second_program\Second_program\obj\Debug\Second_program.pdb
+C:\Users\Настя\Desktop\Second_program\Second_program\bin\Debug\Second_program.exe
+C:\Users\Настя\Desktop\Second_program\Second_program\bin\Debug\Second_program.pdb
+C:\Users\Настя\Desktop\Second_program\Second_program\obj\Debug\Second_program.csprojResolveAssemblyReference.cache
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\bin\Debug\Second_program.exe.config
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\obj\Debug\Second_program.exe
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\obj\Debug\Second_program.pdb
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\bin\Debug\Second_program.exe
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\bin\Debug\Second_program.pdb
+C:\Users\Elise\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\obj\Debug\Second_program.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\bin\Debug\Second_program.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\obj\Debug\Second_program.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\obj\Debug\Second_program.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\bin\Debug\Second_program.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\bin\Debug\Second_program.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\2 FPS play game\Second_program\obj\Debug\Second_program.csprojResolveAssemblyReference.cache
